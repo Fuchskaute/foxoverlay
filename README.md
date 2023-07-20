@@ -1,2 +1,2 @@
 # foxoverlay
-foxoverlay - my persoanl gentoo overlay
+foxoverlay - my personal gentoo overlay
